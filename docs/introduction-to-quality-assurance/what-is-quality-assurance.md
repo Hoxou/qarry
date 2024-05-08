@@ -22,7 +22,7 @@ If you've nodded yes, then you're already seeing the effects of Quality Assuranc
 ## What Exactly is Quality Assurance? 🤔
 
 Imagine you’re overseeing the production of a new car 🚙. 
-> Would you send it off the lot without a thorough inspection? ...Of course not!
+> Would you send it off the lot without a thorough inspection? **...Of course not!**
  
 That's what QA specialists do in the software world. They scrutinize every part of the software during its development to ensure it performs flawlessly, from major features to minor details. 
 
