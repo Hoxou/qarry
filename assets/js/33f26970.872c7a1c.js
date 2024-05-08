@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqarry=self.webpackChunkqarry||[]).push([[563],{650:a=>{a.exports=JSON.parse('{"label":"greetings","permalink":"/qarry/blog/tags/greetings","allTagsPath":"/qarry/blog/tags","count":1,"unlisted":false}')}}]);

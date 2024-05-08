@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqarry=self.webpackChunkqarry||[]).push([[886],{3777:e=>{e.exports=JSON.parse('{"permalink":"/qarry/blog/tags/greetings","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
