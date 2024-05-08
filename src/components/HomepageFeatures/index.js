@@ -9,7 +9,7 @@ import StoneFoundation from '@site/static/img/stone_foundation.svg';
 const FeatureList = [
   {
     title: 'Quick Start for Beginners',
-    imgSrc: '/img/stone_pebble.svg', // Assuming the SVGs are in the public/img folder
+    imgSrc: './img/stone_pebble.svg', // Assuming the SVGs are in the public/img folder
     description: (
       <>
         Start your Quality Assurance journey with easy-to-follow tutorials and practical guides.
@@ -18,7 +18,7 @@ const FeatureList = [
   },
   {
     title: 'Dive Deep into QA Principles',
-    imgSrc: '/img/stone_learn.svg',
+    imgSrc: './img/stone_learn.svg',
     description: (
       <>
         Explore essential QA principles and techniques through in-depth articles and <code>learning materials</code>.
@@ -27,7 +27,7 @@ const FeatureList = [
   },
   {
     title: 'Build Quality into Your Future',
-    imgSrc: '/img/stone_foundation.svg',
+    imgSrc: './img/stone_foundation.svg',
     description: (
       <>
         Learn how to integrate quality practices into your development process, ensuring a solid foundation for future projects.
