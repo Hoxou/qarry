@@ -2,7 +2,6 @@
 sidebar_position: 2
 title: "How to test your app?"
 description: "Discover fundamental software testing methods."
-slug: "/how-to-test-your-app"
 tags: ["Quality Assurance", "Software Testing", "QA Fundamentals", "Beginner Guide"]
 ---
 

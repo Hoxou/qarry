@@ -2,7 +2,6 @@
 sidebar_position: 1
 title: "What is Quality Assurance?"
 description: "Explore the fundamentals of Quality Assurance (QA) in software development, learn about its importance in ensuring software reliability, user satisfaction, and how it differs from Quality Control. Perfect for beginners looking to understand the role of QA in tech."
-slug: "/beginners-guide-to-quality-assurance"
 tags: ["Quality Assurance", "QA Fundamentals", "Software Development", "Beginner Guide"]
 draft: true
 ---
