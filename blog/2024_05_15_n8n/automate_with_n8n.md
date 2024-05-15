@@ -25,7 +25,7 @@ Intrigued? That’s just a hint of what n8n can do for you...
 [n8n](https://n8n.io/) isn’t just another tool—it’s a transformative force. It's like hiring an assistant who specializes in eliminating the mundane, ensuring you spend your time on what truly matters.
 
 :::note
-**Real-life scenario:** In our team, we automated a visual comparison for SVGs that will output differences vs. last time. Then with n8n we sorts results into Notion tables for manually retesting the differences and categorize them. This process updates as Jira tickets progress. We also have a bunch of stats updated in real-time. All without a single line of code. 📊
+**Real-life scenario:** In our team, we automated a visual comparison for SVGs that will output differences vs. last time. Then with n8n we sort results into Notion tables for manually retesting the differences and categorize them. This process updates as Jira tickets progress. We also have a bunch of stats updated in real-time. All without a single line of code. 📊
 :::
 
 ## Why n8n is a Game Changer for QA Managers 🌟
@@ -36,9 +36,9 @@ Intrigued? That’s just a hint of what n8n can do for you...
 
 ## Your First Day with n8n 📘
 
-Ready to dive in? You can easily follow n8n installation process on their official [documentation](https://docs.n8n.io/hosting/installation/docker/), but I recommend using Docker and test it in local first!
+Ready to dive in? You can easily follow n8n installation process on their official [documentation](https://docs.n8n.io/hosting/installation/docker/), but I recommend using Docker and testing it locally first!
 
-Once you followed the few steps, you can begin to automate! There are tons of possibilities. If you are out of ideas on how to use n8n, you can always refer to their official tutorials on [youtube](https://www.youtube.com/@n8n-io/featured).
+Once you followed the few steps, you can begin to automate! There are tons of possibilities. If you are out of ideas on how to use n8n, you can always refer to their official tutorials on [YouTube](https://www.youtube.com/@n8n-io/featured).
 
 ####  From Real Users: n8n in Action
 
