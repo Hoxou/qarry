@@ -6,6 +6,7 @@ authors:
     url: https://linkedin.com/in/victor-toupar/
     image_url: /img/victortoupar.jpg
 tags: ["Quality Assurance", "User Experience", "Software Development", "QA Team"]
+date: 2024-05-20
 ---
 
 # How Quality Assurance Teams Represent Users 🛡️👩‍💻

@@ -6,6 +6,7 @@ authors:
     url: https://linkedin.com/in/victor-toupar/
     image_url: /img/victortoupar.jpg
 tags: ["n8n", "Quality Assurance", "Workflow Automation", "No-Code Solutions"]
+date: 2024-05-15
 ---
 
 ![Automation Dummies Banner](./img/dummies_automation.webp)
